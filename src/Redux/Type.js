@@ -1,0 +1,3 @@
+export const USERLOGGED = "USERLOGGED";
+
+export const USERNOTLOGGED = "USERNOTLOGGED";
